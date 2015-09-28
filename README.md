@@ -1,6 +1,8 @@
 # NickCage-TelegramBot
 Nicolas Cage TelegramBot that returns random gif or quotes.
 
+Bot avalaible at [nickcage_bot](https://telegram.me/nickcage_bot)
+
 ## Install
 
 		pip install requests giphypop python-telegram-bot
