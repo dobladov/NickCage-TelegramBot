@@ -11,6 +11,10 @@ Bot avalaible at [nickcage_bot](https://telegram.me/nickcage_bot)
 
 		python main.py
 
+## Screenshots
+
+![Screen1](https://my.mixtape.moe/gwotrl.png)
+
 ## Docs
 
 + [Telegram Bot Platform](https://telegram.org/blog/bot-revolution)
